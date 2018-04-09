@@ -300,3 +300,27 @@
 2018-04-09 14:27:15 INFO  MyLogger:41 - Edit saved search
 2018-04-09 14:27:16 INFO  MyLogger:23 - Update search name to: toyota prius
 2018-04-09 14:27:33 INFO  MyLogger:247 - Closing Browser.
+2018-04-09 16:12:56 INFO  MyLogger:58 - Logger is initialized..
+2018-04-09 16:12:58 INFO  MyLogger:134 - CHROME driver is initialized..
+2018-04-09 16:12:58 INFO  MyLogger:13 - Open https://sfbay.craigslist.org/ URL.
+2018-04-09 16:12:59 INFO  MyLogger:16 - Navigate to login screen and login
+2018-04-09 16:13:00 INFO  MyLogger:19 - Navigate to my account
+2018-04-09 16:13:10 INFO  MyLogger:241 - Closing Browser.
+2018-04-09 16:14:25 INFO  MyLogger:58 - Logger is initialized..
+2018-04-09 16:14:26 INFO  MyLogger:134 - CHROME driver is initialized..
+2018-04-09 16:14:26 INFO  MyLogger:13 - Open https://sfbay.craigslist.org/ URL.
+2018-04-09 16:14:27 INFO  MyLogger:16 - Navigate to login screen and login
+2018-04-09 16:14:27 INFO  MyLogger:19 - Navigate to my account
+2018-04-09 16:14:34 INFO  MyLogger:241 - Closing Browser.
+2018-04-09 16:16:05 INFO  MyLogger:58 - Logger is initialized..
+2018-04-09 16:16:07 INFO  MyLogger:134 - CHROME driver is initialized..
+2018-04-09 16:16:07 INFO  MyLogger:13 - Open https://sfbay.craigslist.org/ URL.
+2018-04-09 16:16:09 INFO  MyLogger:16 - Navigate to login screen and login
+2018-04-09 16:16:09 INFO  MyLogger:19 - Navigate to my account
+2018-04-09 16:16:19 INFO  MyLogger:241 - Closing Browser.
+2018-04-09 16:18:38 INFO  MyLogger:58 - Logger is initialized..
+2018-04-09 16:18:39 INFO  MyLogger:134 - CHROME driver is initialized..
+2018-04-09 16:18:39 INFO  MyLogger:13 - Open https://sfbay.craigslist.org/ URL.
+2018-04-09 16:18:41 INFO  MyLogger:16 - Navigate to login screen and login
+2018-04-09 16:18:41 INFO  MyLogger:19 - Navigate to my account
+2018-04-09 16:18:51 INFO  MyLogger:241 - Closing Browser.
