@@ -15,7 +15,7 @@ public class ui_tests extends TestBase{
 
 		log.info("Navigate to login screen and login");
 		new Landing_page(driver).navigateToMyAccount();
-		new LoginPage(driver).validLogin("hemantjanrao@gmail.com","}covm8{*Yf0^3AtT");
+		new LoginPage(driver).validLogin(data.getProperty("user.name"), data.getProperty("user.password"));
 
 		log.info("Open 'searches' tab");
 		UserAccount userAccount = new UserAccount(driver);

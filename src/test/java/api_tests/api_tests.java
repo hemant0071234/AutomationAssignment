@@ -1,5 +1,6 @@
 package api_tests;
 
+import base.TestBase;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import io.restassured.specification.ResponseSpecification;
@@ -21,7 +22,7 @@ import static io.restassured.RestAssured.expect;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.hasXPath;
 
-public class api_tests_craigslist {
+public class api_tests extends TestBase {
 
     @BeforeTest
     public void setupAPI(){
@@ -32,7 +33,7 @@ public class api_tests_craigslist {
     public void loginTest(){
         RestAssured.baseURI = "https://accounts.craigslist.org/";
         Response response = given().relaxedHTTPSValidation()
-                .auth().form("hemantjanrao@gmail.com", "}covm8{*Yf0^3AtT")
+                .auth().form(data.getProperty("user.name"), data.getProperty("user.password"))
                 .when()
                 .log().uri()
                 .get("login");
@@ -81,7 +82,7 @@ public class api_tests_craigslist {
     public void saveSearch(){
         RestAssured.baseURI = "https://accounts.craigslist.org/";
         Response response = given().relaxedHTTPSValidation()
-                .auth().form("hemantjanrao@gmail.com", "}covm8{*Yf0^3AtT")
+                .auth().form(data.getProperty("user.name"), data.getProperty("user.password"))
                 .cookie("cl_b","NF-kJLg46BGZJUJSXxksBwvxaic")
                 .cookie("cl_def_hp","sfbay")
                 .cookie("cl_session","uQS5vxcYCtnopoFTHx7CG1vMdz1ICbygWqqSsr8JEHZBf3ufdRbNP4R8Gi7Hipt3")
@@ -100,7 +101,7 @@ public class api_tests_craigslist {
     public void verifySavedSearch(){
         RestAssured.baseURI = "https://accounts.craigslist.org/";
         Response response = given().relaxedHTTPSValidation()
-                .auth().form("hemantjanrao@gmail.com", "}covm8{*Yf0^3AtT")
+                .auth().form(data.getProperty("user.name"), data.getProperty("user.password"))
                 .cookie("cl_def_hp","sfbay")
                 .cookie("cl_b","NF-kJLg46BGZJUJSXxksBwvxaic")
                 .cookie("cl_session","xK8b2l72HsqjrfsYlA57xvk9FyWyvwRAFNwgkjqQqOd7YfbsqB1PUiNJ9ndAreqR")
