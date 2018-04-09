@@ -1,0 +1,302 @@
+2018-04-08 11:03:44 INFO  MyLogger:60 - Logger is initialized..
+2018-04-08 11:52:58 INFO  MyLogger:60 - Logger is initialized..
+2018-04-08 12:00:32 INFO  MyLogger:60 - Logger is initialized..
+2018-04-08 12:01:59 INFO  MyLogger:60 - Logger is initialized..
+2018-04-08 12:04:51 INFO  MyLogger:60 - Logger is initialized..
+2018-04-08 12:13:33 INFO  MyLogger:60 - Logger is initialized..
+2018-04-08 12:20:43 INFO  MyLogger:55 - Logger is initialized..
+2018-04-08 12:22:34 INFO  MyLogger:55 - Logger is initialized..
+2018-04-08 12:25:07 INFO  MyLogger:55 - Logger is initialized..
+2018-04-08 12:26:35 INFO  MyLogger:55 - Logger is initialized..
+2018-04-08 12:26:36 INFO  MyLogger:143 - CHROME driver is initialized..
+2018-04-08 12:27:04 INFO  MyLogger:55 - Logger is initialized..
+2018-04-08 12:27:05 INFO  MyLogger:143 - CHROME driver is initialized..
+2018-04-08 12:29:42 INFO  MyLogger:55 - Logger is initialized..
+2018-04-08 12:29:43 INFO  MyLogger:143 - CHROME driver is initialized..
+2018-04-08 12:30:31 INFO  MyLogger:55 - Logger is initialized..
+2018-04-08 12:30:32 INFO  MyLogger:143 - CHROME driver is initialized..
+2018-04-08 12:30:33 INFO  MyLogger:16 - Open Google Search URL.
+2018-04-08 12:30:33 INFO  MyLogger:33 - Click on first search option
+2018-04-08 12:30:33 INFO  MyLogger:252 - Closing Browser.
+2018-04-08 12:32:57 INFO  MyLogger:55 - Logger is initialized..
+2018-04-08 12:32:59 INFO  MyLogger:143 - CHROME driver is initialized..
+2018-04-08 12:32:59 INFO  MyLogger:16 - Open Google Search URL.
+2018-04-08 12:33:00 INFO  MyLogger:19 - Get input string from properties file and put it into the search box.
+2018-04-08 12:33:00 INFO  MyLogger:41 - Enter text to search: dev environment
+2018-04-08 12:33:01 INFO  MyLogger:33 - Click on first search option
+2018-04-08 12:33:01 INFO  MyLogger:53 - Select first option displayed by google search
+2018-04-08 12:33:18 INFO  MyLogger:252 - Closing Browser.
+2018-04-08 12:33:21 INFO  MyLogger:55 - Logger is initialized..
+2018-04-08 12:33:22 INFO  MyLogger:143 - CHROME driver is initialized..
+2018-04-08 12:33:22 INFO  MyLogger:16 - Open Google Search URL.
+2018-04-08 12:33:23 INFO  MyLogger:19 - Get input string from properties file and put it into the search box.
+2018-04-08 12:33:23 INFO  MyLogger:41 - Enter text to search: dev environment
+2018-04-08 12:33:23 INFO  MyLogger:33 - Click on first search option
+2018-04-08 12:33:23 INFO  MyLogger:53 - Select first option displayed by google search
+2018-04-08 12:33:28 INFO  MyLogger:252 - Closing Browser.
+2018-04-08 12:36:02 INFO  MyLogger:55 - Logger is initialized..
+2018-04-08 12:36:04 INFO  MyLogger:143 - CHROME driver is initialized..
+2018-04-08 12:36:04 INFO  MyLogger:16 - Open Google Search URL.
+2018-04-08 12:36:04 INFO  MyLogger:19 - Get input string from properties file and put it into the search box.
+2018-04-08 12:36:04 INFO  MyLogger:41 - Enter text to search: dev environment
+2018-04-08 12:36:05 INFO  MyLogger:23 - Assert actual searched string with expected string from properties file.
+2018-04-08 12:36:05 INFO  MyLogger:47 - Select first option displayed by google search
+2018-04-08 12:36:05 INFO  MyLogger:234 - Actual string: [ dev environment ] does match with Expected string: [ dev environment ]
+2018-04-08 12:36:05 INFO  MyLogger:33 - Click on first search option
+2018-04-08 12:36:05 INFO  MyLogger:53 - Select first option displayed by google search
+2018-04-08 12:36:06 INFO  MyLogger:252 - Closing Browser.
+2018-04-08 12:41:43 INFO  MyLogger:55 - Logger is initialized..
+2018-04-08 12:41:44 INFO  MyLogger:143 - CHROME driver is initialized..
+2018-04-08 12:41:44 INFO  MyLogger:16 - Open Google Search URL.
+2018-04-08 12:41:49 INFO  MyLogger:19 - Get input string from properties file and put it into the search box.
+2018-04-08 12:41:49 INFO  MyLogger:41 - Enter text to search: dev environment
+2018-04-08 12:41:49 INFO  MyLogger:23 - Assert actual searched string with expected string from properties file.
+2018-04-08 12:41:49 INFO  MyLogger:47 - Select first option displayed by google search
+2018-04-08 12:41:50 INFO  MyLogger:234 - Actual string: [ dev environment ] does match with Expected string: [ dev environment ]
+2018-04-08 12:41:50 INFO  MyLogger:33 - Click on first search option
+2018-04-08 12:41:50 INFO  MyLogger:53 - Select first option displayed by google search
+2018-04-08 12:41:51 INFO  MyLogger:252 - Closing Browser.
+2018-04-08 20:41:08 INFO  MyLogger:56 - Logger is initialized..
+2018-04-08 20:41:10 INFO  MyLogger:144 - CHROME driver is initialized..
+2018-04-08 20:41:10 INFO  MyLogger:40 - Open https://sfbay.craigslist.org/ URL.
+2018-04-08 20:41:16 INFO  MyLogger:43 - test
+2018-04-08 20:41:16 INFO  MyLogger:253 - Closing Browser.
+2018-04-08 20:41:27 INFO  MyLogger:56 - Logger is initialized..
+2018-04-08 20:41:29 INFO  MyLogger:144 - CHROME driver is initialized..
+2018-04-08 20:41:29 INFO  MyLogger:40 - Open https://sfbay.craigslist.org/ URL.
+2018-04-08 20:41:37 INFO  MyLogger:43 - test
+2018-04-08 20:41:37 INFO  MyLogger:253 - Closing Browser.
+2018-04-08 21:07:07 INFO  MyLogger:56 - Logger is initialized..
+2018-04-08 21:07:09 INFO  MyLogger:144 - CHROME driver is initialized..
+2018-04-08 21:07:09 INFO  MyLogger:26 - Enter username to email: hemantjanrao@gmail.com
+2018-04-08 21:10:43 INFO  MyLogger:56 - Logger is initialized..
+2018-04-08 21:10:44 INFO  MyLogger:144 - CHROME driver is initialized..
+2018-04-08 21:11:08 INFO  MyLogger:56 - Logger is initialized..
+2018-04-08 21:11:09 INFO  MyLogger:144 - CHROME driver is initialized..
+2018-04-08 21:11:44 INFO  MyLogger:56 - Logger is initialized..
+2018-04-08 21:11:45 INFO  MyLogger:144 - CHROME driver is initialized..
+2018-04-08 21:11:45 INFO  MyLogger:27 - Enter username to email: hemantjanrao@gmail.com
+2018-04-08 21:12:15 INFO  MyLogger:253 - Closing Browser.
+2018-04-08 21:12:31 INFO  MyLogger:56 - Logger is initialized..
+2018-04-08 21:12:32 INFO  MyLogger:144 - CHROME driver is initialized..
+2018-04-08 21:12:33 INFO  MyLogger:48 - Open https://sfbay.craigslist.org/ URL.
+2018-04-08 21:12:37 INFO  MyLogger:27 - Enter username to email: hemantjanrao@gmail.com
+2018-04-08 21:16:35 INFO  MyLogger:56 - Logger is initialized..
+2018-04-08 21:16:36 INFO  MyLogger:144 - CHROME driver is initialized..
+2018-04-08 21:16:36 INFO  MyLogger:49 - Open https://sfbay.craigslist.org/ URL.
+2018-04-08 21:16:41 INFO  MyLogger:19 - Navigate to my account
+2018-04-08 21:16:44 INFO  MyLogger:27 - Enter username to email: hemantjanrao@gmail.com
+2018-04-08 21:16:44 INFO  MyLogger:29 - Enter password to password: }covm8{*Yf0^3AtT
+2018-04-08 21:16:44 INFO  MyLogger:31 - Click on submit
+2018-04-08 21:16:48 INFO  MyLogger:55 - test
+2018-04-08 21:16:48 INFO  MyLogger:253 - Closing Browser.
+2018-04-08 22:28:27 INFO  MyLogger:56 - Logger is initialized..
+2018-04-08 22:28:29 INFO  MyLogger:144 - CHROME driver is initialized..
+2018-04-08 22:28:29 INFO  MyLogger:18 - Open Google Search URL.
+2018-04-08 22:28:33 INFO  MyLogger:21 - Get input string from properties file and put it into the search box.
+2018-04-08 22:28:33 INFO  MyLogger:41 - Enter text to search: null
+2018-04-08 22:29:03 INFO  MyLogger:35 - Click on first search option
+2018-04-08 22:29:03 INFO  MyLogger:53 - Select first option displayed by google search
+2018-04-08 22:29:22 INFO  MyLogger:43 - Open https://sfbay.craigslist.org/ URL.
+2018-04-08 22:29:22 INFO  MyLogger:253 - Closing Browser.
+2018-04-08 22:29:40 INFO  MyLogger:56 - Logger is initialized..
+2018-04-08 22:29:42 INFO  MyLogger:144 - CHROME driver is initialized..
+2018-04-08 22:29:42 INFO  MyLogger:43 - Open https://sfbay.craigslist.org/ URL.
+2018-04-08 22:29:47 INFO  MyLogger:19 - Navigate to my account
+2018-04-08 22:29:50 INFO  MyLogger:27 - Enter username to email: hemantjanrao@gmail.com
+2018-04-08 22:29:50 INFO  MyLogger:29 - Enter password to password: }covm8{*Yf0^3AtT
+2018-04-08 22:29:50 INFO  MyLogger:31 - Click on submit
+2018-04-08 22:29:53 INFO  MyLogger:253 - Closing Browser.
+2018-04-08 22:30:51 INFO  MyLogger:56 - Logger is initialized..
+2018-04-08 22:31:57 INFO  MyLogger:56 - Logger is initialized..
+2018-04-08 22:31:58 INFO  MyLogger:144 - CHROME driver is initialized..
+2018-04-08 22:31:59 INFO  MyLogger:43 - Open https://sfbay.craigslist.org/ URL.
+2018-04-08 22:32:03 INFO  MyLogger:19 - Navigate to my account
+2018-04-08 22:32:06 INFO  MyLogger:27 - Enter username to email: hemantjanrao@gmail.com
+2018-04-08 22:32:06 INFO  MyLogger:29 - Enter password to password: }covm8{*Yf0^3AtT
+2018-04-08 22:32:06 INFO  MyLogger:31 - Click on submit
+2018-04-08 22:32:10 INFO  MyLogger:253 - Closing Browser.
+2018-04-09 10:26:32 INFO  MyLogger:56 - Logger is initialized..
+2018-04-09 10:26:34 INFO  MyLogger:144 - CHROME driver is initialized..
+2018-04-09 10:26:34 INFO  MyLogger:43 - Open https://sfbay.craigslist.org/ URL.
+2018-04-09 10:26:40 INFO  MyLogger:19 - Navigate to my account
+2018-04-09 10:26:43 INFO  MyLogger:27 - Enter username to email: hemantjanrao@gmail.com
+2018-04-09 10:26:43 INFO  MyLogger:29 - Enter password to password: }covm8{*Yf0^3AtT
+2018-04-09 10:26:43 INFO  MyLogger:31 - Click on submit
+2018-04-09 10:26:46 INFO  MyLogger:253 - Closing Browser.
+2018-04-09 10:46:21 INFO  MyLogger:56 - Logger is initialized..
+2018-04-09 10:46:23 INFO  MyLogger:144 - CHROME driver is initialized..
+2018-04-09 10:46:23 INFO  MyLogger:44 - Open https://sfbay.craigslist.org/ URL.
+2018-04-09 10:46:28 INFO  MyLogger:19 - Navigate to my account
+2018-04-09 10:46:32 INFO  MyLogger:27 - Enter username to email: hemantjanrao@gmail.com
+2018-04-09 10:46:32 INFO  MyLogger:29 - Enter password to password: }covm8{*Yf0^3AtT
+2018-04-09 10:46:33 INFO  MyLogger:31 - Click on submit
+2018-04-09 10:46:36 INFO  MyLogger:19 - Navigate to my account
+2018-04-09 10:47:06 INFO  MyLogger:253 - Closing Browser.
+2018-04-09 10:47:57 INFO  MyLogger:56 - Logger is initialized..
+2018-04-09 10:47:58 INFO  MyLogger:144 - CHROME driver is initialized..
+2018-04-09 10:47:59 INFO  MyLogger:44 - Open https://sfbay.craigslist.org/ URL.
+2018-04-09 10:48:03 INFO  MyLogger:19 - Navigate to my account
+2018-04-09 10:48:05 INFO  MyLogger:27 - Enter username to email: hemantjanrao@gmail.com
+2018-04-09 10:48:05 INFO  MyLogger:29 - Enter password to password: }covm8{*Yf0^3AtT
+2018-04-09 10:48:06 INFO  MyLogger:31 - Click on submit
+2018-04-09 10:48:09 INFO  MyLogger:35 - Select searched tab
+2018-04-09 10:48:10 INFO  MyLogger:35 - Select searched tab
+2018-04-09 10:50:57 INFO  MyLogger:56 - Logger is initialized..
+2018-04-09 10:50:58 INFO  MyLogger:144 - CHROME driver is initialized..
+2018-04-09 10:50:59 INFO  MyLogger:45 - Open https://sfbay.craigslist.org/ URL.
+2018-04-09 10:51:03 INFO  MyLogger:19 - Navigate to my account
+2018-04-09 10:51:06 INFO  MyLogger:27 - Enter username to email: hemantjanrao@gmail.com
+2018-04-09 10:51:06 INFO  MyLogger:29 - Enter password to password: }covm8{*Yf0^3AtT
+2018-04-09 10:51:06 INFO  MyLogger:31 - Click on submit
+2018-04-09 10:51:09 INFO  MyLogger:35 - Select searched tab
+2018-04-09 10:51:12 INFO  MyLogger:253 - Closing Browser.
+2018-04-09 10:56:35 INFO  MyLogger:56 - Logger is initialized..
+2018-04-09 10:56:36 INFO  MyLogger:144 - CHROME driver is initialized..
+2018-04-09 10:56:36 INFO  MyLogger:45 - Open https://sfbay.craigslist.org/ URL.
+2018-04-09 10:56:44 INFO  MyLogger:19 - Navigate to my account
+2018-04-09 10:56:48 INFO  MyLogger:27 - Enter username to email: hemantjanrao@gmail.com
+2018-04-09 10:56:48 INFO  MyLogger:29 - Enter password to password: }covm8{*Yf0^3AtT
+2018-04-09 10:56:48 INFO  MyLogger:31 - Click on submit
+2018-04-09 10:56:52 INFO  MyLogger:35 - Select searched tab
+2018-04-09 10:56:53 INFO  MyLogger:45 - Edit saved search
+2018-04-09 10:56:53 INFO  MyLogger:25 - Update search name to: Test
+2018-04-09 10:56:53 INFO  MyLogger:253 - Closing Browser.
+2018-04-09 10:57:50 INFO  MyLogger:57 - Logger is initialized..
+2018-04-09 10:57:51 INFO  MyLogger:145 - CHROME driver is initialized..
+2018-04-09 10:57:52 INFO  MyLogger:45 - Open https://sfbay.craigslist.org/ URL.
+2018-04-09 10:57:56 INFO  MyLogger:19 - Navigate to my account
+2018-04-09 10:57:59 INFO  MyLogger:27 - Enter username to email: hemantjanrao@gmail.com
+2018-04-09 10:57:59 INFO  MyLogger:29 - Enter password to password: }covm8{*Yf0^3AtT
+2018-04-09 10:57:59 INFO  MyLogger:31 - Click on submit
+2018-04-09 10:58:03 INFO  MyLogger:35 - Select searched tab
+2018-04-09 10:58:04 INFO  MyLogger:45 - Edit saved search
+2018-04-09 10:58:04 INFO  MyLogger:25 - Update search name to: Test
+2018-04-09 10:58:04 INFO  MyLogger:254 - Closing Browser.
+2018-04-09 10:59:03 INFO  MyLogger:58 - Logger is initialized..
+2018-04-09 10:59:05 INFO  MyLogger:146 - CHROME driver is initialized..
+2018-04-09 10:59:05 INFO  MyLogger:45 - Open https://sfbay.craigslist.org/ URL.
+2018-04-09 10:59:09 INFO  MyLogger:19 - Navigate to my account
+2018-04-09 10:59:12 INFO  MyLogger:27 - Enter username to email: hemantjanrao@gmail.com
+2018-04-09 10:59:12 INFO  MyLogger:29 - Enter password to password: }covm8{*Yf0^3AtT
+2018-04-09 10:59:12 INFO  MyLogger:31 - Click on submit
+2018-04-09 10:59:16 INFO  MyLogger:35 - Select searched tab
+2018-04-09 10:59:17 INFO  MyLogger:45 - Edit saved search
+2018-04-09 10:59:18 INFO  MyLogger:25 - Update search name to: Test
+2018-04-09 10:59:18 INFO  MyLogger:255 - Closing Browser.
+2018-04-09 11:01:45 INFO  MyLogger:58 - Logger is initialized..
+2018-04-09 11:01:46 INFO  MyLogger:146 - CHROME driver is initialized..
+2018-04-09 11:01:46 INFO  MyLogger:45 - Open https://sfbay.craigslist.org/ URL.
+2018-04-09 11:01:55 INFO  MyLogger:19 - Navigate to my account
+2018-04-09 11:01:58 INFO  MyLogger:27 - Enter username to email: hemantjanrao@gmail.com
+2018-04-09 11:01:58 INFO  MyLogger:29 - Enter password to password: }covm8{*Yf0^3AtT
+2018-04-09 11:01:58 INFO  MyLogger:31 - Click on submit
+2018-04-09 11:02:01 INFO  MyLogger:35 - Select searched tab
+2018-04-09 11:02:03 INFO  MyLogger:45 - Edit saved search
+2018-04-09 11:02:04 INFO  MyLogger:25 - Update search name to: Test
+2018-04-09 11:02:04 INFO  MyLogger:255 - Closing Browser.
+2018-04-09 11:03:52 INFO  MyLogger:58 - Logger is initialized..
+2018-04-09 11:03:53 INFO  MyLogger:146 - CHROME driver is initialized..
+2018-04-09 11:03:53 INFO  MyLogger:45 - Open https://sfbay.craigslist.org/ URL.
+2018-04-09 11:03:58 INFO  MyLogger:19 - Navigate to my account
+2018-04-09 11:04:00 INFO  MyLogger:27 - Enter username to email: hemantjanrao@gmail.com
+2018-04-09 11:04:00 INFO  MyLogger:29 - Enter password to password: }covm8{*Yf0^3AtT
+2018-04-09 11:04:00 INFO  MyLogger:31 - Click on submit
+2018-04-09 11:04:04 INFO  MyLogger:35 - Select searched tab
+2018-04-09 11:04:05 INFO  MyLogger:45 - Edit saved search
+2018-04-09 11:04:06 INFO  MyLogger:25 - Update search name to: Test
+2018-04-09 11:04:11 INFO  MyLogger:255 - Closing Browser.
+2018-04-09 11:06:17 INFO  MyLogger:58 - Logger is initialized..
+2018-04-09 11:06:19 INFO  MyLogger:146 - CHROME driver is initialized..
+2018-04-09 11:06:19 INFO  MyLogger:45 - Open https://sfbay.craigslist.org/ URL.
+2018-04-09 11:06:23 INFO  MyLogger:19 - Navigate to my account
+2018-04-09 11:06:25 INFO  MyLogger:27 - Enter username to email: hemantjanrao@gmail.com
+2018-04-09 11:06:26 INFO  MyLogger:29 - Enter password to password: }covm8{*Yf0^3AtT
+2018-04-09 11:06:26 INFO  MyLogger:31 - Click on submit
+2018-04-09 11:06:29 INFO  MyLogger:35 - Select searched tab
+2018-04-09 11:06:30 INFO  MyLogger:45 - Edit saved search
+2018-04-09 11:07:05 INFO  MyLogger:25 - Update search name to: Test
+2018-04-09 11:07:19 INFO  MyLogger:58 - Logger is initialized..
+2018-04-09 11:07:20 INFO  MyLogger:146 - CHROME driver is initialized..
+2018-04-09 11:07:20 INFO  MyLogger:45 - Open https://sfbay.craigslist.org/ URL.
+2018-04-09 11:07:26 INFO  MyLogger:19 - Navigate to my account
+2018-04-09 11:07:32 INFO  MyLogger:27 - Enter username to email: hemantjanrao@gmail.com
+2018-04-09 11:07:32 INFO  MyLogger:29 - Enter password to password: }covm8{*Yf0^3AtT
+2018-04-09 11:07:32 INFO  MyLogger:31 - Click on submit
+2018-04-09 11:07:36 INFO  MyLogger:35 - Select searched tab
+2018-04-09 11:07:37 INFO  MyLogger:45 - Edit saved search
+2018-04-09 11:07:37 INFO  MyLogger:23 - Update search name to: Test
+2018-04-09 11:07:42 INFO  MyLogger:255 - Closing Browser.
+2018-04-09 11:10:57 INFO  MyLogger:58 - Logger is initialized..
+2018-04-09 11:10:59 INFO  MyLogger:146 - CHROME driver is initialized..
+2018-04-09 11:10:59 INFO  MyLogger:42 - Open https://sfbay.craigslist.org/ URL.
+2018-04-09 11:11:03 INFO  MyLogger:19 - Navigate to my account
+2018-04-09 11:11:05 INFO  MyLogger:27 - Enter username to email: hemantjanrao@gmail.com
+2018-04-09 11:11:05 INFO  MyLogger:29 - Enter password to password: }covm8{*Yf0^3AtT
+2018-04-09 11:11:06 INFO  MyLogger:31 - Click on submit
+2018-04-09 11:11:09 INFO  MyLogger:35 - Select searched tab
+2018-04-09 11:11:10 INFO  MyLogger:45 - Edit saved search
+2018-04-09 11:11:10 INFO  MyLogger:23 - Update search name to: Test
+2018-04-09 11:11:16 INFO  MyLogger:255 - Closing Browser.
+2018-04-09 11:14:56 INFO  MyLogger:58 - Logger is initialized..
+2018-04-09 11:14:58 INFO  MyLogger:146 - CHROME driver is initialized..
+2018-04-09 11:14:58 INFO  MyLogger:42 - Open https://sfbay.craigslist.org/ URL.
+2018-04-09 11:15:03 INFO  MyLogger:19 - Navigate to my account
+2018-04-09 11:15:06 INFO  MyLogger:27 - Enter username to email: hemantjanrao@gmail.com
+2018-04-09 11:15:06 INFO  MyLogger:29 - Enter password to password: }covm8{*Yf0^3AtT
+2018-04-09 11:15:07 INFO  MyLogger:31 - Click on submit
+2018-04-09 11:15:11 INFO  MyLogger:35 - Select searched tab
+2018-04-09 11:15:13 INFO  MyLogger:45 - Edit saved search
+2018-04-09 11:15:14 INFO  MyLogger:23 - Update search name to: Test
+2018-04-09 11:15:21 INFO  MyLogger:255 - Closing Browser.
+2018-04-09 11:18:54 INFO  MyLogger:58 - Logger is initialized..
+2018-04-09 11:18:56 INFO  MyLogger:146 - CHROME driver is initialized..
+2018-04-09 11:18:56 INFO  MyLogger:42 - Open https://sfbay.craigslist.org/ URL.
+2018-04-09 11:19:00 INFO  MyLogger:19 - Navigate to my account
+2018-04-09 11:19:02 INFO  MyLogger:27 - Enter username to email: hemantjanrao@gmail.com
+2018-04-09 11:19:02 INFO  MyLogger:29 - Enter password to password: }covm8{*Yf0^3AtT
+2018-04-09 11:19:03 INFO  MyLogger:31 - Click on submit
+2018-04-09 11:19:06 INFO  MyLogger:35 - Select searched tab
+2018-04-09 11:19:16 INFO  MyLogger:255 - Closing Browser.
+2018-04-09 12:25:01 INFO  MyLogger:58 - Logger is initialized..
+2018-04-09 12:25:02 INFO  MyLogger:146 - CHROME driver is initialized..
+2018-04-09 12:25:02 INFO  MyLogger:41 - Open https://sfbay.craigslist.org/ URL.
+2018-04-09 12:25:07 INFO  MyLogger:19 - Navigate to my account
+2018-04-09 12:25:10 INFO  MyLogger:27 - Enter username to email: hemantjanrao@gmail.com
+2018-04-09 12:25:10 INFO  MyLogger:29 - Enter password to password: }covm8{*Yf0^3AtT
+2018-04-09 12:25:10 INFO  MyLogger:31 - Click on submit
+2018-04-09 12:25:14 INFO  MyLogger:30 - Select searched tab
+2018-04-09 12:25:16 INFO  MyLogger:40 - Edit saved search
+2018-04-09 12:25:16 INFO  MyLogger:255 - Closing Browser.
+2018-04-09 12:26:17 INFO  MyLogger:58 - Logger is initialized..
+2018-04-09 12:26:18 INFO  MyLogger:146 - CHROME driver is initialized..
+2018-04-09 12:26:18 INFO  MyLogger:41 - Open https://sfbay.craigslist.org/ URL.
+2018-04-09 12:26:23 INFO  MyLogger:19 - Navigate to my account
+2018-04-09 12:26:26 INFO  MyLogger:27 - Enter username to email: hemantjanrao@gmail.com
+2018-04-09 12:26:26 INFO  MyLogger:29 - Enter password to password: }covm8{*Yf0^3AtT
+2018-04-09 12:26:26 INFO  MyLogger:31 - Click on submit
+2018-04-09 12:26:30 INFO  MyLogger:31 - Select searched tab
+2018-04-09 12:26:31 INFO  MyLogger:41 - Edit saved search
+2018-04-09 12:26:41 INFO  MyLogger:255 - Closing Browser.
+2018-04-09 12:28:38 INFO  MyLogger:58 - Logger is initialized..
+2018-04-09 12:28:39 INFO  MyLogger:146 - CHROME driver is initialized..
+2018-04-09 12:28:39 INFO  MyLogger:41 - Open https://sfbay.craigslist.org/ URL.
+2018-04-09 12:28:44 INFO  MyLogger:19 - Navigate to my account
+2018-04-09 12:28:46 INFO  MyLogger:27 - Enter username to email: hemantjanrao@gmail.com
+2018-04-09 12:28:46 INFO  MyLogger:29 - Enter password to password: }covm8{*Yf0^3AtT
+2018-04-09 12:28:46 INFO  MyLogger:31 - Click on submit
+2018-04-09 12:28:49 INFO  MyLogger:31 - Select searched tab
+2018-04-09 12:28:51 INFO  MyLogger:41 - Edit saved search
+2018-04-09 12:28:51 INFO  MyLogger:23 - Update search name to: toyota prius
+2018-04-09 12:28:58 INFO  MyLogger:255 - Closing Browser.
+2018-04-09 14:27:01 INFO  MyLogger:58 - Logger is initialized..
+2018-04-09 14:27:03 INFO  MyLogger:138 - CHROME driver is initialized..
+2018-04-09 14:27:03 INFO  MyLogger:13 - Open https://sfbay.craigslist.org/ URL.
+2018-04-09 14:27:07 INFO  MyLogger:19 - Navigate to my account
+2018-04-09 14:27:11 INFO  MyLogger:27 - Enter username to email: hemantjanrao@gmail.com
+2018-04-09 14:27:11 INFO  MyLogger:29 - Enter password to password: }covm8{*Yf0^3AtT
+2018-04-09 14:27:11 INFO  MyLogger:31 - Click on submit
+2018-04-09 14:27:14 INFO  MyLogger:31 - Select searched tab
+2018-04-09 14:27:15 INFO  MyLogger:41 - Edit saved search
+2018-04-09 14:27:16 INFO  MyLogger:23 - Update search name to: toyota prius
+2018-04-09 14:27:33 INFO  MyLogger:247 - Closing Browser.
