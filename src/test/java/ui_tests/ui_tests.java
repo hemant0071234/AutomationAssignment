@@ -10,7 +10,7 @@ public class ui_tests extends TestBase{
 
 	@Test(priority=1, description = "Log in to https://sfbay.craigslist.org/")
 	public void login(){
-		log.info("Open https://sfbay.craigslist.org/ URL.");
+		log.info("Open application URL.");
 		driver.get(data.getProperty("base.url"));
 
 		log.info("Navigate to login screen and login");

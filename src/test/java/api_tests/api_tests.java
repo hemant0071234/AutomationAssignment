@@ -31,7 +31,7 @@ public class api_tests extends TestBase {
 
     @Test (priority=1, description = "Login to the application")
     public void loginTest(){
-        RestAssured.baseURI = "https://accounts.craigslist.org/";
+        RestAssured.baseURI = data.getProperty("api.login.base.url");
         Response response = given().relaxedHTTPSValidation()
                 .auth().form(data.getProperty("user.name"), data.getProperty("user.password"))
                 .when()
@@ -80,7 +80,7 @@ public class api_tests extends TestBase {
 
     @Test (priority=4, description = "Save search by clicking 'save search' button")//, dependsOnMethods = { "loginTest" })
     public void saveSearch(){
-        RestAssured.baseURI = "https://accounts.craigslist.org/";
+        RestAssured.baseURI = data.getProperty("api.login.base.url");
         Response response = given().relaxedHTTPSValidation()
                 .auth().form(data.getProperty("user.name"), data.getProperty("user.password"))
                 .cookie("cl_b","NF-kJLg46BGZJUJSXxksBwvxaic")
@@ -96,10 +96,9 @@ public class api_tests extends TestBase {
         Assert.assertTrue(response.getStatusCode()==200,"Search save failed");
     }
 
-
     @Test (priority=5, description = "Verify search was saved")
     public void verifySavedSearch(){
-        RestAssured.baseURI = "https://accounts.craigslist.org/";
+        RestAssured.baseURI = data.getProperty("api.login.base.url");
         Response response = given().relaxedHTTPSValidation()
                 .auth().form(data.getProperty("user.name"), data.getProperty("user.password"))
                 .cookie("cl_def_hp","sfbay")
